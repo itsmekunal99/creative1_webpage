@@ -76,7 +76,7 @@ section{
     background-color: rgba(195, 255, 0, 0.71);
     border-radius: 50px;
     margin-top:35px;
-    background-image:url(/creative1/philip-oroni-CrJGbb7kzU4-unsplash.jpg) ;
+    background-image:url(/philip-oroni-CrJGbb7kzU4-unsplash.jpg) ;
     background-size: cover;
     background-position:center;
     padding:5px;
@@ -152,7 +152,7 @@ button:hover{
 #image{
     height: 500px;
     width:90%;
-    background-image: url(/creative1/unspalsh.png);
+    background-image: url(unspalsh.png);
     background-size: cover;
     border-top-left-radius: 70px;
     border-top-right-radius: 70px;
