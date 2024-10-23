@@ -9,15 +9,15 @@ html ,body{
 }
 @font-face {
     font-family: gilroy;
-    src: url(/creative1/Gilroy.otf);
+    src: url(Gilroy.otf);
 }
 @font-face {
     font-family: lexend;
-    src: url(/creative1/Lexend-VariableFont_wght.ttf);
+    src: url(Lexend-VariableFont_wght.ttf);
 }
 @font-face {
     font-family: anton;
-    src: url(/creative1/Anton-Regular.ttf);
+    src: url(Anton-Regular.ttf);
 }
 body{
     /* background-color: black; */
@@ -76,7 +76,7 @@ section{
     background-color: rgba(195, 255, 0, 0.71);
     border-radius: 50px;
     margin-top:35px;
-    background-image:url(/philip-oroni-CrJGbb7kzU4-unsplash.jpg) ;
+    background-image:url(philip-oroni-CrJGbb7kzU4-unsplash.jpg) ;
     background-size: cover;
     background-position:center;
     padding:5px;
